@@ -91,19 +91,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Created with ❤️ by [Your Name]  
+Created with ❤️ by Nikita  
 Feel free to contribute or customize!
 ```
 
 ### Key Elements Included:
-1. **Visual Header** with emojis and clear project name
-2. **Feature showcase** of the 5 emotions
-3. **Step-by-step installation** instructions
-4. **Usage instructions** with keyboard controls
-5. **Music setup** guidance
-6. **Troubleshooting** common issues
-7. **Customization** suggestions
-8. **Professional structure** with license mention
+1. Visual Header with emojis and clear project name
+2. Feature showcase of the 5 emotions
+3. Step-by-step installation instructions
+4. Usage instructions with keyboard controls
+5. Music setup guidance
+6. Troubleshooting common issues
+7. Customization suggestions
+8. Professional structure with license mention
 
 To use this README:
 1. Save as `README.md` in your project folder
